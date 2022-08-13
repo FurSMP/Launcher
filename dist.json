@@ -1,0 +1,31 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "881961914249379902",
+        "smallImageText": "FurSMP",
+        "smallImageKey": "logo-center"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://fursmp.tk/articles/index.rss",
+    "servers": [
+        {
+            "id": "FurSMP-1.19.1",
+            "name": "FurSMP",
+            "description": "Join FurSMP.",
+            "icon": "https://cdn.discordapp.com/attachments/709918247364984913/759798248033615932/Ilustracion4.png",
+            "version": "1.0.0",
+            "address": "play.fursmp.xyz:25565",
+            "minecraftVersion": "1.19.1",
+            "discord": {
+                "shortId": "1.19.1 Server",
+                "largeImageText": "FurSMP New World",
+                "largeImageKey": "server-prod"
+            },
+            "mainServer": false,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}
